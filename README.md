@@ -1,6 +1,6 @@
 # MacApps
 
-## [Free](https://github.com/FrediWest/MacApps/tree/Free-Apps) ``|`` [All](https://github.com/FrediWest/MacApps/blob/All-Apps/README.md)
+## [Free](https://github.com/FrediWest/MacApps/blob/Free-Apps/README.md) ``|`` [All](https://github.com/FrediWest/MacApps/blob/All-Apps/README.md)
 
 ### [Affinity Phot‪o‬](https://apps.apple.com/us/app/affinity-photo/id824183456?mt=12): ``Paid``
 Professional image editing software.
