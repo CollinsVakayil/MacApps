@@ -52,3 +52,18 @@ CleanMyMac X packs 30+ tools to help you solve the most common Mac issues. You c
 Amphetamine can keep your Mac, and optionally its display(s), awake through a super simple on/off switch, or automatically through easy-to-configure Triggers.
 
 <img width="1440" alt="Screen Shot 2021-04-03 at 10 11 23 AM" src="https://user-images.githubusercontent.com/79551523/113482598-fac83f80-9464-11eb-80be-d92b1b292a4f.png">
+
+
+### [Hidden Ba‪r‬](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12): ``Free``
+Hidden Bar lets you hide menu bar items to give your Mac a cleaner look.
+
+<img width="1440" alt="Screen Shot 2021-04-03 at 12 04 03 PM" src="https://user-images.githubusercontent.com/79551523/113485732-ba70bd80-9474-11eb-8fcb-a3ce6c146852.png">
+
+
+### [Volume Control](https://github.com/kyleneideck/BackgroundMusic): ``Free``
+Toggle volume for indivividual apps separately.
+
+<img width="494" alt="Screen Shot 2021-04-03 at 12 09 54 PM" src="https://user-images.githubusercontent.com/79551523/113485888-9366bb80-9475-11eb-96dc-e4098971f376.png">
+
+
+
