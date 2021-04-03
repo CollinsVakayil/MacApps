@@ -1,5 +1,7 @@
 # MacApps
 
+## [Paid](https://github.com/FrediWest/MacApps/blob/Paid-Apps/README.md) ``|`` [All](https://github.com/FrediWest/MacApps/blob/All-Apps/README.md)
+
 ### [Pock](https://github.com/pigigaldi/Pock): ``Free``
 Widgets manager for MacBook's Touch Bar. Pock is a free, open-source tool that gives you quick access to your favorite controls and services while maximizing your on-screen real estate.
 
