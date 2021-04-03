@@ -4,6 +4,12 @@
 ## [All](https://github.com/FrediWest/MacApps/blob/All-Apps/README.md) ``|`` [Free](https://github.com/FrediWest/MacApps/blob/Free-Apps/README.md) ``|`` [Paid](https://github.com/FrediWest/MacApps/blob/Paid-Apps/README.md)
 
 
+### [Dropover](https://apps.apple.com/us/app/dropover/id1355679052?mt=12): ``Paid``
+Dropover is a utility that makes Drag & Drop easier. Use it to stash, gather or move any draggable content without having to open side-by-side windows.
+
+![bd18d1215dcd554a1c5fb4c9c1a28a30](https://user-images.githubusercontent.com/79551523/113487985-d9754c80-9480-11eb-91f1-cd465d7d647f.jpg)
+
+
 ### [Affinity Phot‪o‬](https://apps.apple.com/us/app/affinity-photo/id824183456?mt=12): ``Paid``
 Professional image editing software.
 
