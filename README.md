@@ -7,7 +7,7 @@
 ### [Dropover](https://apps.apple.com/us/app/dropover/id1355679052?mt=12): ``Paid``
 Dropover is a utility that makes Drag & Drop easier. Use it to stash, gather or move any draggable content without having to open side-by-side windows.
 
-https://user-images.githubusercontent.com/79551523/113487950-9a46fb80-9480-11eb-9177-2b25d2bcbddb.mp4
+![bd18d1215dcd554a1c5fb4c9c1a28a30](https://user-images.githubusercontent.com/79551523/113487985-d9754c80-9480-11eb-91f1-cd465d7d647f.jpg)
 
 
 ### [Pock](https://github.com/pigigaldi/Pock): ``Free``
