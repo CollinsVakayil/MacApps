@@ -88,3 +88,5 @@ Session Pal is an ultra-light Safari extension that helps you save open tabs as 
 The Unarchiver is a small and easy to use program that can unarchive many different kinds of archive files. It will open common formats such as Zip, RAR (including v5), 7-zip, Tar, Gzip and Bzip2. It will also open many older formats, such as StuffIt, DiskDoubler, LZH, ARJ and ARC. It will even open other kinds of files, like ISO and BIN disc images, some Windows .EXE installers.
 
 ![unarchiver-screenshot-01@2x](https://user-images.githubusercontent.com/79551523/113486669-a67b8a80-9479-11eb-9bdc-0566eef3fe2f.png)
+
+.....
