@@ -4,6 +4,12 @@
 ## [All](https://github.com/FrediWest/MacApps/blob/All-Apps/README.md) ``|`` [Free](https://github.com/FrediWest/MacApps/blob/Free-Apps/README.md) ``|`` [Paid](https://github.com/FrediWest/MacApps/blob/Paid-Apps/README.md)
 
 
+### [Wireshark](https://www.wireshark.org/#download): ``Free``
+Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level.
+
+<img width="1162" alt="Screenshot-2020-05-14-at-12 18 50" src="https://user-images.githubusercontent.com/79551523/114091322-28a2ef00-987e-11eb-8ab4-34a23238dc15.png">
+
+
 ### [Pock](https://github.com/pigigaldi/Pock): ``Free``
 Widgets manager for MacBook's Touch Bar. Pock is a free, open-source tool that gives you quick access to your favorite controls and services while maximizing your on-screen real estate.
 
