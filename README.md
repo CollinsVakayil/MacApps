@@ -4,6 +4,12 @@
 ## [All](https://github.com/FrediWest/MacApps/blob/All-Apps/README.md) ``|`` [Free](https://github.com/FrediWest/MacApps/blob/Free-Apps/README.md) ``|`` [Paid](https://github.com/FrediWest/MacApps/blob/Paid-Apps/README.md)
 
 
+### [eqMac](https://eqmac.app): ``Free``
+macOS System-wide Audio Equalizer.
+
+<img width="446" alt="screenshot2" src="https://user-images.githubusercontent.com/79551523/114092972-26419480-9880-11eb-902f-e3f0bdf9d238.png">
+
+
 ### [1.1.1.1 WARP by Cloudflare](https://1.1.1.1): ``Free``
 1.1.1.1 with WARP replaces the connection between your device and the Internet with a modern, optimized, protocol. It prevents anyone from snooping on you by encrypting the traffic leaving your device.
 
