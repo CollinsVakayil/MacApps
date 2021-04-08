@@ -4,7 +4,7 @@
 ## [All](https://github.com/FrediWest/MacApps/blob/All-Apps/README.md) ``|`` [Free](https://github.com/FrediWest/MacApps/blob/Free-Apps/README.md) ``|`` [Paid](https://github.com/FrediWest/MacApps/blob/Paid-Apps/README.md)
 
 
-### [Cloudflare](https://1.1.1.1): ``Free``
+### [1.1.1.1 WARP by Cloudflare](https://1.1.1.1): ``Free``
 1.1.1.1 with WARP replaces the connection between your device and the Internet with a modern, optimized, protocol. It prevents anyone from snooping on you by encrypting the traffic leaving your device.
 
 <img width="505" alt="Screen Shot 2021-04-08 at 3 29 37 PM" src="https://user-images.githubusercontent.com/79551523/114092239-44f35b80-987f-11eb-8393-17bfa5cf60a3.png">
